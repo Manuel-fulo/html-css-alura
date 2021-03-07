@@ -89,6 +89,7 @@ footer {
 	font-size: 13px;
 	margin: 20px 0 0;
 }
+/* pagina de contato*/
 
 main {
 	width: 940px;
@@ -96,5 +97,16 @@ main {
 }
 form{
 	margin: 40px 0;
+
+}
+form label {
+	display: block;
+	font-size: 20px;
+	margin: 0 0 10px;
+	font-weight: bolder;
+}
+form input{
+	display: block;
+	margin: 0 0 20px;
 
 }
